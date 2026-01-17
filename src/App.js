@@ -5,7 +5,7 @@ import reviews from "./data";
 const App = () => {
   return (
    <div>
-    App
+      App
    </div>
   );
 };
